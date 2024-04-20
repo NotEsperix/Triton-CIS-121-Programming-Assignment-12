@@ -1,0 +1,8 @@
+Chicago	4000000
+Denver	2500000
+Milwaukee	3000000
+Detroit	2200000
+Oklahoma	1250000
+Dallas	2100000
+Houston	1750000
+Indianapolis	1400000

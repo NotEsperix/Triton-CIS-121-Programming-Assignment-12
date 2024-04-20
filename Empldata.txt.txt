@@ -1,0 +1,10 @@
+John Jones	55000.00
+Frank Smith	75000.00
+Mark Smith	45000.00
+Dave Roberts	80000.00
+Sally Davis	90000.00
+Tom Hanks	100000.00
+Betty Crocker	98000.00
+Sue Klein	78000.00
+Joe Maddon	65000.00
+Kris Bryant	70000.00
